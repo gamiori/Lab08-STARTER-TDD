@@ -1,5 +1,5 @@
 package com.example.lab08;
-
+// new commit message
 public class City {
     private String city;
     private String province;
